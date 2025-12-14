@@ -1,0 +1,2 @@
+# burikaigi2025
+burikaigi2025のための準備repos
